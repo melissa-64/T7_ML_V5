@@ -44,6 +44,15 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/797445059367796808/UNBAN_HWID.gif",
             "productUrl": "https://team073.com/store/product/127-perm-unban-hwid/"
+        },
+        {
+            "id": "Astral External",
+            "name": "Astral External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/797445059367796808/updated_11-08.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/797445059367796808/BO6_EXTERNAL.png",
+            "productUrl": "https://team073.com/store/product/294-astral-external-cheat/"
         }
     ]
 }
