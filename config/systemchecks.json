@@ -4,21 +4,21 @@
             "key": "VirtualizationEnabled",
             "expectedValue": false,
             "fixable": false,
-            "enabled": true,
+            "enabled": false,
             "tutorialLink": ""
         },
         {
             "key": "SecureBootDisabled",
             "expectedValue": false,
             "fixable": false,
-            "enabled": true,
+            "enabled": false,
             "tutorialLink": ""
         },
         {
             "key": "HyperVDisabled",
             "expectedValue": false,
             "fixable": true,
-            "enabled": true
+            "enabled": false
         },
         {
             "key": "MemoryIntegrityDisabled",
@@ -30,13 +30,13 @@
             "key": "DriverBlocklistDisabled",
             "expectedValue": false,
             "fixable": true,
-            "enabled": true
+            "enabled": false
         },
         {
             "key": "Windows11_24H2",
             "expectedValue": false,
             "fixable": false,
-            "enabled": true,
+            "enabled": false,
             "tutorialLink": ""
         },
         {
@@ -49,7 +49,7 @@
             "key": "RiotVanguardInactive",
             "expectedValue": false,
             "fixable": true,
-            "enabled": true
+            "enabled": false
         }
     ],
     "enabled": true
