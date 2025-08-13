@@ -18,7 +18,7 @@
         "background": {
             "main": "#050505",
             "overlay": "rgba(10,10,10,0.5)",
-            "custom-image": "",
+            "custom-image": "https://api.cloud.anewvision.fr/797445059367796808/Banner_path73558_4K.png",
             "logoImage": "https://team073.com/logo.png",
             "background-anim": "snow"
         },
