@@ -53,6 +53,15 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/797445059367796808/BO6_EXTERNAL.png",
             "productUrl": "https://team073.com/store/product/294-astral-external-cheat/"
+        },
+        {
+            "id": "Pixel External",
+            "name": "Pixel External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/797445059367796808/Q_2_1.exe",
+            "status": "online",
+            "imageUrl": "https://team073.com/uploads/monthly_2025_04/BO6External.gif.6b0bddc407f47941edca578833dc8b47.gif",
+            "productUrl": "https://team073.com/store/product/343-pixel-external-cheat/"
         }
     ]
 }
