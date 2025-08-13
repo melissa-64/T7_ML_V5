@@ -19,7 +19,7 @@
             "main": "#050505",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
-            "logoImage": "",
+            "logoImage": "https://team073.com/logo.png",
             "background-anim": "snow"
         },
         "border": {
