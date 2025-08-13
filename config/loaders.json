@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "Temp Spoofer",
+            "name": "Temp Spoofer",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://api.cloud.anewvision.fr/797445059367796808/Loader_2.exe",
+            "status": "online",
+            "imageUrl": "https://team073.com/SPOOFER.png",
+            "productUrl": ""
+        }
+    ]
 }
