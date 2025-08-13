@@ -8,6 +8,15 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/797445059367796808/SPOOFER.png",
             "productUrl": ""
+        },
+        {
+            "id": "2k25",
+            "name": "2k25",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/797445059367796808/v33.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/797445059367796808/2k25.png",
+            "productUrl": "https://team073.com/store/category/50-cheats-and-vc-services-for-nba-2k25/"
         }
     ]
 }
